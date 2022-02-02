@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SensKai
-- 👀 I’m interested in Penetration testing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
